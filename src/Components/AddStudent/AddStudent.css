@@ -1,0 +1,25 @@
+.sideNavBox {
+    width: 250px;
+    height: 150px;
+    /* border: 1px solid black; */
+    background-color: white;
+}
+
+.sideNavBox ul {
+    width: 100%;
+    height: 100%;
+}
+
+.sideNavBox li {
+    list-style: none;
+    margin: 7px 0px;
+}
+
+.sideNavBox li Button {
+    width: 100%;
+}
+
+.formContainer {
+    width: 1000px;
+    height: auto;
+}

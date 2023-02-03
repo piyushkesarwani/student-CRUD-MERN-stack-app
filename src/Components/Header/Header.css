@@ -1,0 +1,4 @@
+.link:focus {
+    color: white;
+    background-color: red;
+}
